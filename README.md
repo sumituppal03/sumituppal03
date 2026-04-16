@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br> I’m currently student<br> I’m looking to collaborate on some open source projects<br> I’m currently learning data structures and algorithm<br>I'm passionate about coding<br>
+<br> I’m currently student<br> I’m looking to collaborate on some open source projects<br> I’m currently learning java and spring boot<br>I'm passionate about coding<br>
 
 
 ## 🌐 Socials:
